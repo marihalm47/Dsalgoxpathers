@@ -1,0 +1,96 @@
+2023-02-09 14:29:02,460 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:02,485 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:11,291 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:11,293 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:11,309 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is : Graph
+2023-02-09 14:29:13,874 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:13,875 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:13,886 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Graph
+2023-02-09 14:29:16,674 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Assessment
+2023-02-09 14:29:18,052 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count :3
+2023-02-09 14:29:18,261 [INFO ] step_definitions.Graph_stepdef [main] Actual result  :hello
+2023-02-09 14:29:18,291 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:18,292 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:18,611 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count invalid :3
+2023-02-09 14:29:18,751 [INFO ] step_definitions.Graph_stepdef [main] Invalid code when clicked on run button
+2023-02-09 14:29:20,777 [INFO ] step_definitions.Graph_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-09 14:29:20,797 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:20,797 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:23,809 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:23,810 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:24,006 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is Graph Representations
+2023-02-09 14:29:26,406 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Assessment
+2023-02-09 14:29:26,463 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count :3
+2023-02-09 14:29:27,655 [INFO ] step_definitions.Graph_stepdef [main] Actual result  :hello
+2023-02-09 14:29:27,666 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:27,666 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:27,959 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count invalid :3
+2023-02-09 14:29:28,072 [INFO ] step_definitions.Graph_stepdef [main] Invalid code when clicked on run button
+2023-02-09 14:29:30,106 [INFO ] step_definitions.Graph_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-09 14:29:30,118 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 14:29:30,120 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 14:29:30,659 [INFO ] step_definitions.Graph_stepdef [main] User is in Practice Questions
+2023-02-09 23:20:52,802 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:20:52,821 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:03,587 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:21:03,589 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:03,604 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is : Graph
+2023-02-09 23:21:05,995 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:21:05,996 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:06,012 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Graph
+2023-02-09 23:21:09,653 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Assessment
+2023-02-09 23:21:11,131 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count :3
+2023-02-09 23:21:11,346 [INFO ] step_definitions.Graph_stepdef [main] Actual result  :hello
+2023-02-09 23:21:11,379 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:21:11,379 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:11,880 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count invalid :3
+2023-02-09 23:21:12,010 [INFO ] step_definitions.Graph_stepdef [main] Invalid code when clicked on run button
+2023-02-09 23:21:14,042 [INFO ] step_definitions.Graph_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-09 23:21:14,070 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:21:14,071 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:16,713 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:21:16,715 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:16,918 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is Graph Representations
+2023-02-09 23:21:19,233 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Assessment
+2023-02-09 23:21:19,288 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count :3
+2023-02-09 23:21:20,460 [INFO ] step_definitions.Graph_stepdef [main] Actual result  :hello
+2023-02-09 23:21:20,487 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:21:20,487 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:20,966 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count invalid :3
+2023-02-09 23:21:21,092 [INFO ] step_definitions.Graph_stepdef [main] Invalid code when clicked on run button
+2023-02-09 23:21:23,119 [INFO ] step_definitions.Graph_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-09 23:21:23,130 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:21:23,139 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:21:23,547 [INFO ] step_definitions.Graph_stepdef [main] User is in Practice Questions
+2023-02-09 23:48:30,301 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:30,306 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:37,485 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:37,485 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:37,502 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is : Graph
+2023-02-09 23:48:40,089 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:40,090 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:40,106 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Graph
+2023-02-09 23:48:43,184 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Assessment
+2023-02-09 23:48:44,671 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count :3
+2023-02-09 23:48:44,910 [INFO ] step_definitions.Graph_stepdef [main] Actual result  :hello
+2023-02-09 23:48:44,920 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:44,920 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:45,302 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count invalid :3
+2023-02-09 23:48:45,466 [INFO ] step_definitions.Graph_stepdef [main] Invalid code when clicked on run button
+2023-02-09 23:48:47,496 [INFO ] step_definitions.Graph_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-09 23:48:47,515 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:47,516 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:50,459 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:50,460 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:50,692 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is Graph Representations
+2023-02-09 23:48:53,187 [INFO ] step_definitions.Graph_stepdef [main] Title of current page is :Assessment
+2023-02-09 23:48:53,244 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count :3
+2023-02-09 23:48:54,411 [INFO ] step_definitions.Graph_stepdef [main] Actual result  :hello
+2023-02-09 23:48:54,444 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:54,444 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:54,801 [INFO ] step_definitions.Graph_stepdef [main] Arraylist count invalid :3
+2023-02-09 23:48:54,931 [INFO ] step_definitions.Graph_stepdef [main] Invalid code when clicked on run button
+2023-02-09 23:48:56,957 [INFO ] step_definitions.Graph_stepdef [main] Error message for invalid python code isNameError: name 'hello' is not defined on line 1
+2023-02-09 23:48:56,965 [INFO ] step_definitions.common_step_definition [main] Instantiation the commonutils
+2023-02-09 23:48:56,970 [INFO ] step_definitions.common_step_definition [main] Launch Browser
+2023-02-09 23:48:57,592 [INFO ] step_definitions.Graph_stepdef [main] User is in Practice Questions
